@@ -45,8 +45,8 @@ A fun **Pacman-inspired terminal game** built with Python and ASCII art. Pacman 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/Rashika-S/Pac-Man-Game-assignment
+   cd <Pac-Man-Game-assignment>
    
 2. Install dependencies:
    ```bash
